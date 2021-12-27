@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "Java",
+      "id": 2
+    },
+    {
+      "title": "React",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
